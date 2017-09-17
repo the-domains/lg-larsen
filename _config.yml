@@ -1,16 +1,16 @@
-typography_spectrum: 0.5404937432448168
+layout_spectrum: 0.6671232337043574
+typography_spectrum: 0.6941233925425475
 color:
-  brandStrength: 0.670188805610126
-  lightness: 0.0311592448393971
-  saturation: 0.18907693868779604
-  rhythmicContrast: 0.25310269917942363
+  brandStrength: 0.9868861627859054
+  lightness: 0.039516730455054654
+  saturation: 0.29594250770230396
+  rhythmicContrast: 0.4140663624260722
   brandColors:
     - '#000000'
     - '#404040'
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
-layout_spectrum: 0.43601785131591825
 author:
   name: LG Larsen
   email: armilla420@gmail.com
@@ -25,7 +25,7 @@ navigation:
   - name: LG
     id: 00af74d4-e9b6-463e-a1b6-000e0cbd3989
     type: content
-  - name: Mii&LG&Dee
+  - name: DeeMiiNovo
     id: ead92aee-60cf-44d6-aa7e-e5b76ab89e8e
     type: content
   - name: LGsamiCrafts
