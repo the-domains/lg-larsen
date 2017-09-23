@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-23T13:41:52.401Z'
-datePublished: '2017-09-23T13:41:54.217Z'
+dateModified: '2017-09-23T13:42:38.083Z'
+datePublished: '2017-09-23T13:42:40.679Z'
 title: LG´s Telescreen
 author: []
 publisher: {}
@@ -43,8 +43,6 @@ _type: Article
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/770b9b84-ca57-4233-972c-d22846e94a2e.jpg)
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51d0f204-c304-421b-aa2e-7bd96cc68f7b.jpg)
-
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25481abc-78da-43c9-9ff1-a52d5f75b98e.jpg)
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4156f872-f156-4353-978d-ca67ffe27858.jpg)
 
