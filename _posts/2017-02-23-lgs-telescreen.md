@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-09-23T13:47:31.682Z'
-datePublished: '2017-09-23T13:47:33.088Z'
+dateModified: '2017-09-23T13:49:35.111Z'
+datePublished: '2017-09-23T13:49:37.067Z'
 title: LG´s Telescreen
 author: []
 publisher: {}
@@ -96,13 +96,9 @@ _type: Article
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a6d925b-c066-4db6-89c4-0bf756169add.jpg)
 
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/559b8750-6a2a-41ab-a418-bd9bac73b277.jpg)
-
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a598cc88-9494-4dc2-97c1-4442cd9c1ec5.jpg)
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/156d309c-d264-4702-a884-7f9a3aefef5d.jpg)
-
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/722714cc-08a3-47f6-8154-d82767aa701e.jpg)
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6ebc582-9ed7-4187-bf1d-3b9b9da6a3cd.jpg)
 
@@ -112,8 +108,6 @@ _type: Article
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5acfe780-a32e-447c-a09c-76010a763e99.jpg)
 
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b49c4e2-5f37-4c37-be4d-0e6abd2d03c3.jpg)
-
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1036a31e-5cf3-4a8c-88c4-88e85052f1bb.jpg)
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95ea6889-a207-4030-af29-23d4001d087f.jpg)
@@ -122,4 +116,4 @@ _type: Article
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40ff96ff-3df8-4330-8b3d-37ed944d058b.jpg)
 
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6877666-122b-4a45-929e-4560c2161bd4.jpg)
+*
