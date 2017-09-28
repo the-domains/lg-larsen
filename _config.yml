@@ -35,11 +35,11 @@ navigation:
   - name: LGsignD
     url: 'https://thegrid.ai/lgsignd/'
     type: external
-  - name: Shops
-    id: 26117ee8-33f8-4ccb-9c14-7e9d0a33fe35
-    type: content
   - name: LG´s Telescreen
     id: 40a9f386-cb40-4fd8-be05-7bed09bdd6b6
+    type: content
+  - name: Shops
+    id: 26117ee8-33f8-4ccb-9c14-7e9d0a33fe35
     type: content
   - name: OurFriends
     url: 'https://thegrid.ai/ourfriends/'
