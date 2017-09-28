@@ -1,4 +1,3 @@
-layout_spectrum: 0.4869567479635819
 typography_spectrum: 0.529030553655201
 color:
   brandStrength: 0.985359068344633
@@ -11,6 +10,8 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
+github: true
+layout_spectrum: 0.4869567479635819
 author:
   name: LG Larsen
   email: armilla420@gmail.com
@@ -40,6 +41,9 @@ navigation:
   - name: OurFriends
     url: 'https://thegrid.ai/ourfriends/'
     type: external
+  - name: Shops
+    id: 26117ee8-33f8-4ccb-9c14-7e9d0a33fe35
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/736bbab0-cc32-40d0-8080-61b35f43d46d.jpg
 title: Handicraft with Design
@@ -72,4 +76,3 @@ description: >-
   "Silence is the Mother of all my creativity.  I´m only blessed to be her
   worker"
 purpose: []
-github: true
