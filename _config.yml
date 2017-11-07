@@ -21,9 +21,6 @@ logo: >-
 name: LG Larsen
 url: 'https://thegrid.ai/lg-larsen/'
 navigation:
-  - name: Shop
-    id: 26117ee8-33f8-4ccb-9c14-7e9d0a33fe35
-    type: content
   - name: Contact
     id: 09a989b3-ee6d-4fdd-b991-8f90c3a27b0d
     type: content
