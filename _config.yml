@@ -20,11 +20,11 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e8ca627-f068-4663-aef4-7e175a605f1e.jpg
 name: LG Larsen
 navigation:
-  - name: Contact
-    id: 09a989b3-ee6d-4fdd-b991-8f90c3a27b0d
-    type: content
   - name: Shops
     id: 26117ee8-33f8-4ccb-9c14-7e9d0a33fe35
+    type: content
+  - name: Contact
+    id: 09a989b3-ee6d-4fdd-b991-8f90c3a27b0d
     type: content
   - name: LG
     id: 00af74d4-e9b6-463e-a1b6-000e0cbd3989
