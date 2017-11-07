@@ -33,6 +33,9 @@ navigation:
   - name: LGsamiCrafts & Mii
     url: 'https://thegrid.ai/lgsamicrafts/'
     type: external
+  - name: Shop
+    url: 'https://thegrid.ai/lg-larsen/shop'
+    type: external
   - name: LGsignD & Dee
     url: 'https://thegrid.ai/lgsignd/'
     type: external
@@ -42,9 +45,6 @@ navigation:
   - name: LG´s Telescreen
     id: 40a9f386-cb40-4fd8-be05-7bed09bdd6b6
     type: content
-  - name: Shop
-    url: 'https://thegrid.ai/lg-larsen/shop'
-    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/736bbab0-cc32-40d0-8080-61b35f43d46d.jpg
 title: Handicraft with Design
