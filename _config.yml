@@ -1,4 +1,3 @@
-layout_spectrum: 0.7986285945253981
 typography_spectrum: 0.92514126749073
 color:
   brandStrength: 0.9892785964387995
@@ -12,6 +11,7 @@ color:
     - '#BFBFBF'
     - '#FFFFFF'
 github: true
+layout_spectrum: 0.7986285945253981
 author:
   name: LG Larsen
   email: armilla420@gmail.com
@@ -19,6 +19,7 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e8ca627-f068-4663-aef4-7e175a605f1e.jpg
 name: LG Larsen
+url: 'https://thegrid.ai/lg-larsen/'
 navigation:
   - name: Shop
     id: 26117ee8-33f8-4ccb-9c14-7e9d0a33fe35
@@ -44,6 +45,9 @@ navigation:
   - name: LG´s Telescreen
     id: 40a9f386-cb40-4fd8-be05-7bed09bdd6b6
     type: content
+  - name: Shop
+    url: 'https://thegrid.ai/lgsamicrafts/shopmii'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/736bbab0-cc32-40d0-8080-61b35f43d46d.jpg
 title: Handicraft with Design
@@ -76,4 +80,3 @@ description: >-
   "Silence is the Mother of all my creativity.  I´m only blessed to be her
   worker" 
 purpose: []
-url: 'https://thegrid.ai/lg-larsen/'
