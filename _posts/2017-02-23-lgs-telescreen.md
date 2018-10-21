@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-21T19:53:39.310Z'
-datePublished: '2018-10-21T19:53:41.192Z'
+dateModified: '2018-10-21T20:00:11.266Z'
+datePublished: '2018-10-21T20:00:16.159Z'
 title: LG´s Telescreen
 author: []
 publisher: {}
