@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: We don´t need no education   (Pink Floyd)
-dateModified: '2018-10-21T19:08:56.346Z'
-datePublished: '2018-10-21T19:08:58.096Z'
+description: ''
+dateModified: '2018-10-21T19:09:13.534Z'
+datePublished: '2018-10-21T19:09:16.147Z'
 title: LG´s Telescreen
 author: []
 publisher: {}
