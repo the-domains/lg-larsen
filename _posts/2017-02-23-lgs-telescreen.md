@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: We don´t need no education   (Pink Floyd)
-dateModified: '2018-10-21T19:16:54.771Z'
-datePublished: '2018-10-21T19:16:55.949Z'
+description: ''
+dateModified: '2018-10-21T19:37:36.458Z'
+datePublished: '2018-10-21T19:37:39.536Z'
 title: LG´s Telescreen
 author: []
 publisher: {}
@@ -16,6 +16,7 @@ _type: Article
 
 ---
 # LG´s Telescreen
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f643e81-2d7a-4def-b2e9-dd2571364d62.jpg)
 
 ---
 
