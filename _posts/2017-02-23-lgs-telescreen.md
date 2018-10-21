@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-21T18:49:19.618Z'
-datePublished: '2018-10-21T18:49:21.631Z'
+dateModified: '2018-10-21T18:51:26.691Z'
+datePublished: '2018-10-21T18:51:31.867Z'
 title: LG´s Telescreen
 author: []
 publisher: {}
@@ -84,6 +84,8 @@ _type: Article
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a598cc88-9494-4dc2-97c1-4442cd9c1ec5.jpg)
 
+<button data-role="cta" style="">Open</button>
+
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6ebc582-9ed7-4187-bf1d-3b9b9da6a3cd.jpg)
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36929c61-788b-47ce-8a3d-a61d15d4ce8d.jpg)
@@ -99,5 +101,6 @@ _type: Article
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8efd2a1-13ae-42f3-a667-9126feec5b39.jpg)
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40ff96ff-3df8-4330-8b3d-37ed944d058b.jpg)
+[back to top][0]
 
-*
+[0]: https://thegrid.ai/lg-larsen/lgs-telescreen/
