@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-21T18:37:58.866Z'
-datePublished: '2018-10-21T18:38:00.883Z'
+dateModified: '2018-10-21T18:41:20.712Z'
+datePublished: '2018-10-21T18:41:26.184Z'
 title: LG´s Telescreen
 author: []
 publisher: {}
@@ -24,17 +24,16 @@ _type: Article
 
 > We don´t need no television (L.G.)
 
-# .
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b224731-19a1-4d60-ab28-78078d61276c.jpg)
 
 # .
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27f111af-79c1-46d0-bdec-908e55f1bdc3.jpg)
 
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b224731-19a1-4d60-ab28-78078d61276c.jpg)
+# .
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84570239-7fec-454b-90c5-f9824071a626.jpg)
 
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27f111af-79c1-46d0-bdec-908e55f1bdc3.jpg)
-
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84570239-7fec-454b-90c5-f9824071a626.jpg)
-
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fe8318f-af86-4362-a923-11981499a758.jpg)
+# .
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1fe8318f-af86-4362-a923-11981499a758.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72eff5cb-1bde-4eb0-bd0f-7c83b799b7ac.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/133e8c6b-cbe0-4368-a80e-ada2e2a7abc1.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa60084c-b9fe-4cd4-a770-f59c61c9b7b5.jpg)
@@ -60,9 +59,7 @@ _type: Article
 
 * * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/756e494d-060d-40a2-b68d-bfe11726124c.jpg)
 
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3e3b150-5dcb-4f20-a34d-920c38698c71.jpg)
-
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47c51657-172c-429f-a2e8-4f59a90f7348.jpg)
+* * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47c51657-172c-429f-a2e8-4f59a90f7348.jpg)
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8005b4e6-ab6d-4a05-99ef-462760aa462b.jpg)
 
@@ -70,11 +67,7 @@ _type: Article
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdb55e9b-6d63-4545-b75c-fc283ccdf713.jpg)
 
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/990c3bce-7fff-48a2-9a04-35edf9a1f88c.jpg)
-
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ffb6597-428e-415c-8908-1f0e4826a45b.jpg)
-
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78ca0de7-e5bb-4bc2-83d9-5e74795d045b.jpg)
+* * * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/78ca0de7-e5bb-4bc2-83d9-5e74795d045b.jpg)
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c69e5d0-98a6-430d-9c27-22a6b9aae1c6.jpg)
 
