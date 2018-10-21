@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-21T18:25:12.885Z'
-datePublished: '2018-10-21T18:25:17.347Z'
+dateModified: '2018-10-21T18:33:08.054Z'
+datePublished: '2018-10-21T18:33:14.708Z'
 title: LG´s Telescreen
 author: []
 publisher: {}
@@ -27,12 +27,13 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/133e8c6b-cbe0-4368-a80e-ada2e2a7abc1.jpg)
 
 # .
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27d24c63-7db7-4c68-8220-729619bdb33e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72eff5cb-1bde-4eb0-bd0f-7c83b799b7ac.jpg)
+
+# .
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa60084c-b9fe-4cd4-a770-f59c61c9b7b5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27d24c63-7db7-4c68-8220-729619bdb33e.jpg)
 
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b224731-19a1-4d60-ab28-78078d61276c.jpg)
-
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27f111af-79c1-46d0-bdec-908e55f1bdc3.jpg)
+* * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27f111af-79c1-46d0-bdec-908e55f1bdc3.jpg)
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84570239-7fec-454b-90c5-f9824071a626.jpg)
 
@@ -58,9 +59,7 @@ _type: Article
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20023ad0-04bc-4250-aae3-7a9227e7f961.jpg)
 
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22f3de03-ec81-4807-bdd3-99e566ad374e.jpg)
-
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/756e494d-060d-40a2-b68d-bfe11726124c.jpg)
+* * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/756e494d-060d-40a2-b68d-bfe11726124c.jpg)
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3e3b150-5dcb-4f20-a34d-920c38698c71.jpg)
 
@@ -80,9 +79,7 @@ _type: Article
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c69e5d0-98a6-430d-9c27-22a6b9aae1c6.jpg)
 
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72eff5cb-1bde-4eb0-bd0f-7c83b799b7ac.jpg)
-
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82b23013-6fe6-4048-9563-a863a2c3ed55.jpg)
+* * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82b23013-6fe6-4048-9563-a863a2c3ed55.jpg)
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/69da85b4-343c-4d25-83bd-71ca9026ab7a.jpg)
 
