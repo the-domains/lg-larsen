@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-10-21T18:21:28.339Z'
-datePublished: '2018-10-21T18:21:30.096Z'
+dateModified: '2018-10-21T18:25:00.412Z'
+datePublished: '2018-10-21T18:25:03.428Z'
 title: LG´s Telescreen
 author: []
 publisher: {}
@@ -25,6 +25,8 @@ _type: Article
 > We don´t need no television (L.G.)
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/133e8c6b-cbe0-4368-a80e-ada2e2a7abc1.jpg)
+
+# .
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27d24c63-7db7-4c68-8220-729619bdb33e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa60084c-b9fe-4cd4-a770-f59c61c9b7b5.jpg)
 
@@ -52,9 +54,7 @@ _type: Article
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/49d73d25-4b41-4d6a-868c-b5b5e9558e16.jpg)
 
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec1a07c6-9b7a-4911-93b1-80a524a4f625.jpg)
-
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f78bffb-641d-4cb7-bb5e-09a7821950b0.jpg)
+* * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f78bffb-641d-4cb7-bb5e-09a7821950b0.jpg)
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20023ad0-04bc-4250-aae3-7a9227e7f961.jpg)
 
@@ -114,4 +114,4 @@ _type: Article
 
 * ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/40ff96ff-3df8-4330-8b3d-37ed944d058b.jpg)
 
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c08c3cba-af68-4b83-bbad-15a3212367af.jpg)
+*
