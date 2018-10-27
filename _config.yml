@@ -44,7 +44,7 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/736bbab0-cc32-40d0-8080-61b35f43d46d.jpg
-title: HandicrafT with Design
+title: HandicraFt with Design
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
