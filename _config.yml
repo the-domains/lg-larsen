@@ -36,9 +36,6 @@ navigation:
   - name: LGsignD & Dee
     url: 'https://thegrid.ai/lgsignd/'
     type: external
-  - name: LG´s Telescreen
-    id: 40a9f386-cb40-4fd8-be05-7bed09bdd6b6
-    type: content
   - name: OurFriends
     url: 'https://thegrid.ai/ourfriends/'
     type: external
