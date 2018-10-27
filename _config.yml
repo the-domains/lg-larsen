@@ -36,7 +36,7 @@ navigation:
   - name: LGsignD & Dee
     url: 'https://thegrid.ai/lgsignd/'
     type: external
-  - name: OurFriends
+  - name: 'OurFriends :: home'
     url: 'https://thegrid.ai/ourfriends/'
     type: external
 favicon: >-
